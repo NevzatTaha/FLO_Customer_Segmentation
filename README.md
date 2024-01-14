@@ -1,4 +1,4 @@
-# There are two cases that we want to find.
+# CRM Analytics- Customer Segmentation
 ## Case1:
 FLO is introducing a new women's shoe brand into its portfolio. The product prices of this brand are above the general customer preferences. Therefore, there is a desire to communicate specifically with the profile of customers who will be interested in the introduction and product sales of the brand. Communication will be established with loyal customers (champions, loyal_customers) and individuals who shop in the women's category. Save the ID numbers of these customers to a CSV file.
 ### Türkçe
